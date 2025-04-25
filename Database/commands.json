@@ -1,0 +1,26 @@
+{
+    "commands": [
+        "level",
+        "rockpaperscissors",
+        "roll_dice",
+        "ai",
+        "weather",
+        "crypto",
+        "currency",
+        "help",
+        "ping",
+        "poll",
+        "remind",
+        "serverinfo",
+        "translate",
+        "wikipedia",
+        "clear",
+        "slowmode",
+        "join",
+        "leave",
+        "pause",
+        "play",
+        "resume",
+        "stop"
+    ]
+}
